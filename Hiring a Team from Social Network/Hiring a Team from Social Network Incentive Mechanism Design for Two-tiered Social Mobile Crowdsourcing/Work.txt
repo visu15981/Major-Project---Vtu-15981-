@@ -1,0 +1,23 @@
+Hiring a Team from Social Network Incentive Mechanism Design for Two-tiered Social Mobile Crowdsourcing
+
+IEEE Transactions on Mobile Computing,Volume:22,Issue:8,Issue Date:01.August.2023
+
+
+JID	
+Age	
+Attrition	
+Department	
+Education	
+EducationField	
+EmployeeCount	
+Gender	
+HourlyRate	
+JobInvolvement	
+JobLevel	
+JobRole	
+MaritalStatus	
+MonthlyRate	
+NumCompaniesWorked	
+OverTime	
+PerformanceRating
+Hashcode
